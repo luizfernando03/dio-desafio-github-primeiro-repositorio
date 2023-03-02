@@ -1,0 +1,7 @@
+Link para dowload do git e com seus principais comando : https://comandosgit.github.io/
+
+Obs: O Git Bash é um terminal extendido para otimizar o uso do git.
+
+Link do vido ( COMO USAR GIT E GITHUB NA PRATICA) : https://www.youtube.com/watch?v=UBAX-13g8OM
+
+CURSO DA DIO EM Introdução ao Git e Controle de Versões,com 2 duas horas de conteudos e mais 3 (três) atividades para por em pratica o que aprendemos, link :https://www.dio.me/courses/introducao-ao-git-e-controle-de-versoes
